@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dz-18_NavigatorStrategy", "Dz-18_NavigatorStrategy\Dz-18_NavigatorStrategy.csproj", "{06A08EF4-5DB7-4DA2-BB0A-59DCC17FB108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A08EF4-5DB7-4DA2-BB0A-59DCC17FB108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A08EF4-5DB7-4DA2-BB0A-59DCC17FB108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A08EF4-5DB7-4DA2-BB0A-59DCC17FB108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A08EF4-5DB7-4DA2-BB0A-59DCC17FB108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0936821F-1743-4DC9-BD3B-7D3067825074}
+	EndGlobalSection
+EndGlobal
